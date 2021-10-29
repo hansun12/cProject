@@ -15,7 +15,7 @@ int main(void)
     printf("num1: %d, num2: %d\n", num1, num2);
     printf("num3: %d, num4: %d \n",num3, num4);
     return 0;
-//도와주세요!!!!!!!!!!!!
+//도와주세요!!!!!!!!!!!! >> 해결됨
 
 
 }
